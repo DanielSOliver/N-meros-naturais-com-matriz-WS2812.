@@ -4,13 +4,13 @@ Link de video: https://drive.google.com/file/d/1GgNbj8MXUhP_1BDKWSAqLvJ_ilyzTuuS
 
 Descrição do Projeto
 
-Este projeto demonstra como controlar um LED RGB WS2812 (comumente conhecido como Neopixel) utilizando a Raspberry Pi Pico. O sistema é configurado para fazer o LED piscar cinco vezes por segundo, e seu padrão de iluminação pode ser alterado de forma interativa através de dois botões de pressão. O código também utiliza interrupções e buffers para gerenciar diferentes padrões de cores no LED, evitando bloqueios no loop principal e oferecendo uma experiência de controle eficiente.
+Este projeto demonstra como controlar um LED RGB WS2812 utilizando a Raspberry Pi Pico. Seu padrão de iluminação pode ser alterado de forma interativa através de dois botões de pressão. O código também utiliza interrupções e buffers para gerenciar diferentes padrões de cores no LED, evitando bloqueios no loop principal e oferecendo uma experiência de controle eficiente.
 
 Requisitos de Hardware
 Para montar este projeto, você precisará dos seguintes componentes:
 
 Raspberry Pi Pico 
-LED RGB WS2812 (Neopixel): Este LED endereçável permite controlar individualmente cada um dos seus componentes de cor (vermelho, verde e azul).
+LED RGB WS2812 (Neopixel): 
 2 Botões de Pressão: Um para incrementar e outro para decrementar o padrão de iluminação.
 Resistores de pull-up: Para garantir um nível lógico estável nos pinos de entrada dos botões.
 Protoboard e fios de conexão: Para facilitar a montagem do circuito.
