@@ -1,5 +1,6 @@
 README - Controle de LED RGB com Raspberry Pi Pico
 
+Link de video: https://drive.google.com/file/d/1GgNbj8MXUhP_1BDKWSAqLvJ_ilyzTuuS/view?usp=sharing 
 Descrição do Projeto
 
 Este projeto demonstra como controlar um LED RGB WS2812 (comumente conhecido como Neopixel) utilizando a Raspberry Pi Pico. O sistema é configurado para fazer o LED piscar cinco vezes por segundo, e seu padrão de iluminação pode ser alterado de forma interativa através de dois botões de pressão. O código também utiliza interrupções e buffers para gerenciar diferentes padrões de cores no LED, evitando bloqueios no loop principal e oferecendo uma experiência de controle eficiente.
